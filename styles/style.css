@@ -1,0 +1,91 @@
+hr {
+    width: 50%;
+    margin: auto;
+}
+
+
+
+.heading {
+    background: url(../images/leone-venter-VieM9BdZKFo-unsplash.jpg) no-repeat center fixed;
+    background-size: cover;
+    height: 100vh;
+    margin-bottom: 5%;
+}
+
+.heading-text {
+    padding-top: 40vh;
+    padding-left: 20%;
+}
+
+.about {
+    margin-bottom: 5%;
+}
+
+.about-image {
+    padding-top: 10%;
+}
+
+.about-heading {
+    padding-top: 10%;
+    text-align: center;
+}
+
+.about-text {
+    text-align: left;
+    font-size: 24px;
+    line-height: 48px;
+    letter-spacing: 2px;
+    width: 60%;
+    margin: auto;
+    padding-top: 15%;
+}
+
+.projects {
+    margin-bottom: 5%;
+}
+
+.projects-heading {
+    padding-top: 50%;
+    margin-left: 30%;
+}
+
+.project-list {
+    padding-top: 5%;
+}
+
+.project-img {
+    height: 200px;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.card-title {
+    margin: 20px;
+}
+
+.contact {
+    margin-top: 5%;
+    text-align: center;
+}
+
+.contact-heading {
+    margin-bottom: 10%;
+}
+
+.contact-list {
+    margin-bottom: 5%;
+}
+
+.contact-list a {
+    margin: 20px;
+    text-decoration: none;
+    color: #a39f9d;
+}
+
+.footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #ebebeb;
+}
